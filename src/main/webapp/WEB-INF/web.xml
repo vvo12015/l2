@@ -33,15 +33,15 @@
 
     <context-param>
         <param-name>question.Sport</param-name>
-        <param-value>What is favorite sport?football|volleyball|tennis|chess?0|0|0|0</param-value>
+        <param-value>What is your favourite sport?football|volleyball|tennis|chess?0|0|0|0</param-value>
     </context-param>
     <context-param>
         <param-name>question.Color</param-name>
-        <param-value>What is favorite color?blue|white|black|yellow?0|0|0|0</param-value>
+        <param-value>What is your favourite color?blue|white|black|yellow?0|0|0|0</param-value>
     </context-param>
     <context-param>
         <param-name>question.Drink</param-name>
-        <param-value>What is favorite drink?tea|coffee|cacao|milk?0|0|0|0</param-value>
+        <param-value>What is your favourite drink?tea|coffee|cacao|milk?0|0|0|0</param-value>
     </context-param>
     <context-param>
         <param-name>db.url</param-name>
